@@ -1,0 +1,8 @@
+trojan.inject 
+,,sleep,,15000 
+terminal>blocked 
+Settings>blocked 
+,,sleep,,14000
+Delete>diskDrive 
+,,sleep,,14000 
+Edge>endTask 
